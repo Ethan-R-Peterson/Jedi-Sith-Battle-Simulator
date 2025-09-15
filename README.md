@@ -1,4 +1,4 @@
-# Jedi-Sith-Battle-Simulator
+# Star-Wars-Battle-Simulator
 
 This project is a C++ battle simulator that models large-scale conflicts between Jedi and Sith across multiple planets. The program processes troop deployments, resolves battles using priority queues, and provides analytical summaries based on command-line options. It supports both deterministic input files and pseudo-randomly generated deployments for testing.
 
